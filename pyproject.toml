@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "betting-webscraper"
+version = "0.1.0"
+description = "Scrapes betting odds from Swiftbet. Purely for learning purposes"
+authors = ["Daniel Abu <99013608+dan-abu@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.2"
+asyncio = "^3.4.3"
+playwright = "^1.46.0"
+aiofiles = "^24.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

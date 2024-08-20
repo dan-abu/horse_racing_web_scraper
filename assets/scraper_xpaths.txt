@@ -1,0 +1,12 @@
+//*[@id="main-content-page"]/div[2]/div[2]/div/div[2]/div/button[5]
+//*[@id="main-content-page"]/div[2]/div[4]/div/*
+//*[@id="main-content-page"]/div[2]/div[4]/div/div[{i}]/div[2]/div/div/div/div/div[2]/*
+//*[@id="main-content-page"]/div[2]/div[4]/div/div[{i}]/div[2]/div/div/div/div/div[2]/div[{j}]/*
+//*[@id="main-content-page"]/div[2]/div[4]/div/div[{i}]/div[2]/div/div/div/div/div[2]/div[{j}]/div[{k}]
+//*[@id="main-content-page"]/div[2]/div[4]/div/div[{i}]/div[2]/div/div/div/div/div[2]/div[{j}]/div[{k}]/*
+//*[@id="main-content-page"]/div[2]/div[4]/div/div[{i}]/div[2]/div/div/div/div/div[2]/div[{j}]/div[{k}]/a
+//*[@id="main-content-page"]/div[2]/div[4]/div/div[{i}]/div[1]/div/div[2]/div/*
+//*[@id="main-content-page"]/div[2]/div[4]/div/div[{i}]/div[1]/div/div[2]/div/div[{j}]/div/a
+//*[@id="main-content-page"]/div[2]/div[4]/div/div[{i}]/div[1]/div/div[1]/span[1]
+//*[@id="main-content-page"]/div[2]/div[4]/div/div[{i}]/div[2]/div/div/div/div/div[1]/span/div/*
+//*[@id="main-content-page"]/div[2]/div[4]/div/div[{i}]/div[2]/div/div/div/div/div[1]/span/div/div[{j}]

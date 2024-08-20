@@ -1,0 +1,11 @@
+//*[@id="main-content-page"]/div[2]/div[3]/div/div[1]/div/div/div[2]/div[2]/div[2]/div/div[3]/div[6]/div[1]
+//*[@id="main-content-page"]/div[2]/div[3]/div/div[1]/div/div/div[2]/div[2]/div[2]/div/div[3]/div[6]/ul/li[{i}]/div[1]/div[1]/div/div[2]/div[1]
+//*[@id="main-content-page"]/div[2]/div[3]/div[2]/div[1]/div/div/div[2]/div[2]/div[2]/div/div[3]/div[6]/div[1]/*
+//*[@id="main-content-page"]/div[2]/div[3]/div/div[1]/div/div/div[2]/div[2]/div[2]/div/div[3]/div[6]/ul/li[{i}]/div[1]/div[{j}]
+//*[@id="main-content-page"]/div[2]/div[3]/div[2]/div[1]/div/div/div[2]/div[1]/div/div[2]/*
+//*[@id="main-content-page"]/div[2]/div[3]/div[2]/div[1]/div/div/div[2]/div[1]/div/*
+//*[@id="main-content-page"]/div[2]/div[2]/div/div[2]/div/button[5]
+//*[@title="{race_name}"]
+//*[@id="main-content-page"]/div[2]/div[3]/div[2]/div[1]/div/div/div[2]/div[1]/div/div[2]/span[{number_race_name}]
+//*[@id="main-content-page"]/div[2]/div[3]/div[2]/div[1]/div/div/div[2]/div[1]/div/div[{number_race_name}]
+//*[@id="main-content-page"]/div[2]/div[3]/div/div[1]/div/div/div[2]/div[2]/div[2]/div/div[3]/div[6]/ul/*
